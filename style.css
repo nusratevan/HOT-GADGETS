@@ -1,0 +1,72 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.color-cs{
+    background-color: brown;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.col-md-7 h2{
+    color: white;  
+}
+.col-md-7 p{
+    color:wheat;
+   
+}
+.link-button{
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color:black;
+    color: whitesmoke;
+
+}
+.card{
+    border: none;
+    box-shadow: 2px 3px 10px;
+}
+.color-t h6{
+    color: coral;
+}
+.underline{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color: darkblue;
+    margin-bottom: 100px;
+}
+.pic img{
+    height: 500px;
+    width: 500px;
+    
+}
+.bag img{
+    box-shadow: 2px 3px 10px gray;
+    padding: 25px;
+}
+.bag{
+    padding-left: 100px;
+    
+}
+.perfume{
+    margin-top: 70px;
+}
+.perfume img{
+    box-shadow: 2px 3px 10px gray;
+    padding: 25px;
+}
+.shoe{
+    margin-top: 100px;
+}
+.shoe img{
+    box-shadow: 2px 3px 10px gray;
+    padding: 25px;
+}
+footer p{
+    text-align: center;
+    margin-top: 40px;
+     color: gray;
+}
+
+
