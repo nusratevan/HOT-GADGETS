@@ -68,5 +68,109 @@ footer p{
     margin-top: 40px;
      color: gray;
 }
+@media(max-width:1029px){
+    .bag img{
+        width: 150px;
+        height: 150px;
+    }
+    .perfume img{
+        width: 150px;
+        height: 150px;
+    }
+    .shoe img{
+        width: 150px;
+        height: 150px;
+    }
+}
+@media(max-width:640px){
+    .carousel{
+        margin-top: -70px;
+    }
+    .navbar-brand img{
+      width: 100px;
+      height: 50px;
+    }
+    .carousel .row h2{
+      font-size: 18px;
+    }
+    .carousel .row p{
+      font-size: 10px;
+    }
+    .carousel .row button{
+      font-size: 7px;
+    }
+    .carousel .row img{
+      height: 150px;
+    }
+    .color-t h2{
+        font-size: 20px;
+    }
+    .color-t h6{
+        font-size: 7px;
+        margin-top: 10px;
+    }
+    .card{
+        width: 200px;
+        height: 250px;
+        margin: auto;
+    }
+    .card img{
+        width: 100px;
+        height: 100px;
+        margin: auto;
+    }
+    .card-body h5{
+        font-size: 15px;
+    }
+    .card-body p{
+        font-size: 12px;
+        line-height: 1px;
+    }
+    .card-body h3{
+        font-size: 15px;
+    }
+    .card-body button{
+        font-size: 7px;
+    }
+    .underline{
+        font-size: 20px;
+    }
+    .bag img{
+        width: 70px;
+        height: 70px;
+    }
+    .perfume img{
+        width: 70px;
+        height: 70px;
+    }
+    .shoe img{
+        width: 70px;
+        height: 70px;
+    }
+    .bag{
+        margin-left: -60px;
+    }
+    .perfume{
+        margin-left: 120px;
+        margin-top: -140px;
+    }
+    .shoe{
+        margin-left: 120px;
+        margin-top: 55px;
+    }
+    .pic{
+        margin-left: 190px;
+        margin-top: -180px;
+    }
+    .pic img{
+        width: 150px;
+        height: 150px;
+    }
+    footer p{
+        font-size: 7px;
+    }
+
+}
+     
 
 
